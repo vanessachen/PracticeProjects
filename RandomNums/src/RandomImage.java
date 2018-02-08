@@ -1,12 +1,4 @@
-/**
- * File: RandomImage.java
- * 
- * Description:
- * Create a random color image.
- * 
- * @author Yusuf Shakeel
- * Date: 01-04-2014 tue
- */
+
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
